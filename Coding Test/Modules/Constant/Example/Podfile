@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Constant_Tests' do
+  pod 'Constant', :path => '../'
+  
+  
+end

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CoreUI_Tests' do
+  pod 'CoreUI', :path => '../'
+  
+  
+end
